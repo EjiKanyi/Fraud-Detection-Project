@@ -23,7 +23,7 @@ The dataset contains 6.3 million financial transaction records for fraud detecti
 2. fraud_detection.py
 3. fraud_detection_pipeline.pkl
 4. requirements.txt
-5.  README.md
+5. README.md
 
 ## Project Workflow
 1. Exploratory Data Analysis (EDA)
@@ -50,6 +50,8 @@ pip install -r requirements.txt
 
 3. Run the Streamlit app:
 streamlit run fraud_detection.py
+
+## Live Demo 
 
 ## Tools and Libraries
 -> Python
