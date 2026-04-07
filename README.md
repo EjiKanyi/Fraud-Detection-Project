@@ -19,11 +19,11 @@ The dataset contains 6.3 million financial transaction records for fraud detecti
 | isFraud | Whether the transaction is fraudulent (1) or not (0) |
 
 ## Project Structure
-├── Analysis_model.ipynb
-├── fraud_detection.py
-├── fraud_detection_pipeline.pkl
-├── requirements.txt
-└── README.md
+1. Analysis_model.ipynb
+2. fraud_detection.py
+3. fraud_detection_pipeline.pkl
+4. requirements.txt
+5.  README.md
 
 ## Project Workflow
 1. Exploratory Data Analysis (EDA)
